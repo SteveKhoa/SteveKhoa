@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### SteveKhoa
+### Khoa LT
 
 I'm an undergraduate in Ho Chi Minh city, Vietnam. 🇻🇳
 
