@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 
 ### Khoa LT
 
-I'm an undergraduate in Ho Chi Minh city, Vietnam. 🇻🇳
-
 👉 Take a look at my hobby projects: [clickme!](https://github.com/SteveKhoa/PUBLIC)
