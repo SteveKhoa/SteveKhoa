@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Khoa LT
+I'm an undergraduate computer science student in Vietnam.
+
+Contact me via:
+khoa.ltng@gmail.com
 
 👉 Take a look at my hobby projects: [clickme!](https://github.com/SteveKhoa/PUBLIC)
