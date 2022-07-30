@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-khoa.ltng@gmail.com
+Undergrad student in Vietnam. khoa.ltng@gmail.com
 
 👉 Take a look at my hobby projects: [clickme!](https://github.com/SteveKhoa/PUBLIC)
