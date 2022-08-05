@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Undergraduate student in Vietnam. khoa.ltng@gmail.com
+Undergraduate student in Vietnam. 
+
+khoa.ltng@gmail.com
+https://www.linkedin.com/in/khoaltng/
 
 👉 Take a look at my hobby projects: [clickme!](https://github.com/SteveKhoa/PUBLIC)
