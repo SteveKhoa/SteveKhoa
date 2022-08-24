@@ -17,4 +17,6 @@ Undergraduate student in Vietnam. Image Processing & Computer Vision learner.
 
 khoa.ltng@gmail.com
 
+https://stackoverflow.com/users/19427510/khoa-lt
+
 https://www.linkedin.com/in/khoaltng/
