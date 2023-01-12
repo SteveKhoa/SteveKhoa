@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Undergraduate student in Vietnam. Image Processing & Computer Vision learner.
+Undergraduate student in Vietnam. 
+
+Interested Image Processing & Computer Vision.
 
 khoa.ltng@gmail.com
 
