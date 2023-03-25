@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an undergraduate student in Vietnam. 
+An Undergraduate student in Vietnam. A humble learner of:
+
+- Python, C\C++
+- Image Processing and Computer Vision
 
 khoa.ltng@gmail.com
 
