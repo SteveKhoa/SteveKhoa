@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-An Undergraduate student in Vietnam. A humble learner of:
+An Undergraduate student in Vietnam. A learner of:
 
 - Python, C\C++
 - Image Processing and Computer Vision
