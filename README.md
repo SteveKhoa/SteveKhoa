@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 An Undergraduate student in Vietnam. A learner of:
 
-- Python, C\C++
 - Image Processing and Computer Vision
 
 khoa.ltng@gmail.com
