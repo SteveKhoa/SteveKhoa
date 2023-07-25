@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-An Undergraduate student in Vietnam. 
-
-I am interested in Image Processing and Computer Vision.
+I'm an undergraduate Computer Science student and a Computer Vision enthusiast.
 
 khoa.ltng@gmail.com
 
