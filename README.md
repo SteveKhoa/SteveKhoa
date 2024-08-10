@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an undergraduate Computer Science student and a Computer Vision enthusiast.
+- Senior Undergraduate @ HCMUT - VNUHCM
+- Currently focus on Fullstack Development and AWS.
 
-khoa.ltng@gmail.com
-
-https://stackoverflow.com/users/19427510/khoa-lt
+Contact me:
+- 📫 Email `khoa.ltng@gmail.com`
+- ✏️ Stackoverflow `https://stackoverflow.com/users/19427510/khoa-lt`
